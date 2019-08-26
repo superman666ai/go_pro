@@ -22,7 +22,9 @@ func main() {
 
 	// Send 10 integers on the channel.
 	for i := 1; i <= 10; i++ {
+		fmt.Printf("s: %d \n",i)
 		c <- i
+
 	}
 
 	close(c)
