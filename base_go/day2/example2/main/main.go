@@ -1,7 +1,7 @@
 package main
 
 import(
-	a "go_dev/day2/example2/add"
+	a "base_go/day2/example2/add"
 	"fmt"
 )
 

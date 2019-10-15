@@ -1,7 +1,7 @@
 package add
 
 import(
-	 _ "go_dev/day2/example2/test"
+	 _ "base_go/day2/example2/test"
 )
 
 

@@ -2,7 +2,7 @@ package main
 
 
 import(
-	"go_dev/day1/package_example/calc"
+	"base_go/day1/package_example/calc"
 	"fmt"
 )
 
